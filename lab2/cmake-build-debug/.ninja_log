@@ -1,0 +1,23 @@
+# ninja log v5
+13	726	7015754940927370	CMakeFiles/lab2.dir/myString.cpp.obj	147ddfe9b4fb598d
+0	1374	7016305775260609	CMakeFiles/lab2.dir/Bin.cpp.obj	f5429ec4556ae0bf
+48	740	7015754940959277	CMakeFiles/lab2.dir/Circle.cpp.obj	25961af0ecec9c16
+35	730	7015754940959277	CMakeFiles/lab2.dir/Rect.cpp.obj	9951906a87e1f0f
+0	1347	7016313843482257	CMakeFiles/lab2.dir/Hex.cpp.obj	f5bde646cb6eb723
+26	2118	7016255202675160	CMakeFiles/lab2.dir/Shape.cpp.obj	652727c093776de8
+1350	1739	7016313846749569	lab2.exe	776366a32168f3cd
+1	1448	7016310412214453	CMakeFiles/lab2.dir/main.cpp.obj	e44a9faf520c1860
+24	1736	7016307376931542	CMakeFiles/lab2.dir/Oct.cpp.obj	d477965190f12bab
+72	2094	7016303179592098	CMakeFiles/lab2.dir/MyByte.cpp.obj	bc445e95acb88943
+0	1754	7017015684971287	CMakeFiles/lab2.dir/myString.cpp.obj	147ddfe9b4fb598d
+135	1760	7017015685094943	CMakeFiles/lab2.dir/Oct.cpp.obj	d477965190f12bab
+116	1763	7017015685074742	CMakeFiles/lab2.dir/Hex.cpp.obj	f5bde646cb6eb723
+58	1765	7017015685074742	CMakeFiles/lab2.dir/Rect.cpp.obj	9951906a87e1f0f
+21	1768	7017015685104901	CMakeFiles/lab2.dir/main.cpp.obj	e44a9faf520c1860
+41	1770	7017015685074742	CMakeFiles/lab2.dir/Shape.cpp.obj	652727c093776de8
+95	1773	7017015685218129	CMakeFiles/lab2.dir/Bin.cpp.obj	f5429ec4556ae0bf
+77	1775	7017015685198050	CMakeFiles/lab2.dir/Circle.cpp.obj	25961af0ecec9c16
+153	1777	7017015685136551	CMakeFiles/lab2.dir/MyByte.cpp.obj	bc445e95acb88943
+1779	2876	7017015696252209	lab2.exe	776366a32168f3cd
+0	1555	7017020069759265	CMakeFiles/lab2.dir/main.cpp.obj	e44a9faf520c1860
+1557	2091	7017020074143703	lab2.exe	776366a32168f3cd

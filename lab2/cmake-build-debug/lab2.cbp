@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="lab2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/c++lion/OOP/lab2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/c++lion/OOP/lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/c++lion/OOP/lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/c++lion/OOP/lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/c++lion/OOP/lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab2">
+				<Option output="D:/c++lion/OOP/lab2/cmake-build-debug/lab2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/c++lion/OOP/lab2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../include/c++/12.2.0"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../include/c++/12.2.0/x86_64-w64-mingw32"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../include/c++/12.2.0/backward"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/c++lion/OOP/lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab2"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/c++lion/OOP/lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/c++lion/OOP/lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/c++lion/OOP/lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab2/fast">
+				<Option output="D:/c++lion/OOP/lab2/cmake-build-debug/lab2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/c++lion/OOP/lab2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../include/c++/12.2.0"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../include/c++/12.2.0/x86_64-w64-mingw32"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../include/c++/12.2.0/backward"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/c++lion/OOP/lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab2/fast"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/c++lion/OOP/lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/c++lion/OOP/lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/c++lion/OOP/lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/c++lion/OOP/lab2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/c++lion/OOP/lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/c++lion/OOP/lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/c++lion/OOP/lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/c++lion/OOP/lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/c++lion/OOP/lab2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/c++lion/OOP/lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/c++lion/OOP/lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/c++lion/OOP/lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/c++lion/OOP/lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/c++lion/OOP/lab2/Bin.cpp">
+			<Option target="lab2"/>
+		</Unit>
+		<Unit filename="D:/c++lion/OOP/lab2/Bin.h">
+			<Option target="lab2"/>
+		</Unit>
+		<Unit filename="D:/c++lion/OOP/lab2/Circle.cpp">
+			<Option target="lab2"/>
+		</Unit>
+		<Unit filename="D:/c++lion/OOP/lab2/Circle.h">
+			<Option target="lab2"/>
+		</Unit>
+		<Unit filename="D:/c++lion/OOP/lab2/Hex.cpp">
+			<Option target="lab2"/>
+		</Unit>
+		<Unit filename="D:/c++lion/OOP/lab2/Hex.h">
+			<Option target="lab2"/>
+		</Unit>
+		<Unit filename="D:/c++lion/OOP/lab2/MyByte.cpp">
+			<Option target="lab2"/>
+		</Unit>
+		<Unit filename="D:/c++lion/OOP/lab2/MyByte.h">
+			<Option target="lab2"/>
+		</Unit>
+		<Unit filename="D:/c++lion/OOP/lab2/Oct.cpp">
+			<Option target="lab2"/>
+		</Unit>
+		<Unit filename="D:/c++lion/OOP/lab2/Oct.h">
+			<Option target="lab2"/>
+		</Unit>
+		<Unit filename="D:/c++lion/OOP/lab2/Rect.cpp">
+			<Option target="lab2"/>
+		</Unit>
+		<Unit filename="D:/c++lion/OOP/lab2/Rect.h">
+			<Option target="lab2"/>
+		</Unit>
+		<Unit filename="D:/c++lion/OOP/lab2/Shape.cpp">
+			<Option target="lab2"/>
+		</Unit>
+		<Unit filename="D:/c++lion/OOP/lab2/Shape.h">
+			<Option target="lab2"/>
+		</Unit>
+		<Unit filename="D:/c++lion/OOP/lab2/main.cpp">
+			<Option target="lab2"/>
+		</Unit>
+		<Unit filename="D:/c++lion/OOP/lab2/myString.cpp">
+			<Option target="lab2"/>
+		</Unit>
+		<Unit filename="D:/c++lion/OOP/lab2/myString.h">
+			<Option target="lab2"/>
+		</Unit>
+		<Unit filename="D:/c++lion/OOP/lab2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
